@@ -87,3 +87,11 @@ h3 {
   font-size: 1.5rem;
   margin: 0;
 }
+
+.text {
+  width: 300px;
+}
+
+.fa-chevron-right {
+  font-size: 3rem;
+}
