@@ -57,3 +57,16 @@ aside img {
   background-color: #202020;
   margin-bottom: auto;
 }
+
+.logo {
+  background-color: #fff;
+  border-radius: 35px;
+  color: #000;
+  display: inline-flex;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 80px;
+  margin-right: 1rem;
+}
